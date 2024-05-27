@@ -1,4 +1,4 @@
 # Demo
 This is my first git repository
 <br>
-Author - Pallavi Napte
+Author - Pallavi Napte (demo)
